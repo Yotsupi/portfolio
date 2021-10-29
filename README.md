@@ -36,7 +36,7 @@ https://docs.google.com/spreadsheets/d/1GtHYnB-8J-dDIrVOYuqSRxhpl_NFdKoz/edit#gi
 
 ## チャレンジ要素一覧
 
-https://docs.google.com/spreadsheets/d/1BT7Rk6ekIvKoHYbDd_SYxWtAsbTNmlGkOYHZUmszen4/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1NRJNFbTPIJheCTwHjt2PkypP_hDsF4aKPxH-DL9E0ms/edit?usp=sharing
 
 ## 開発環境
 
