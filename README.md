@@ -25,7 +25,7 @@
 
 ### ER 図
 
-https://drive.google.com/file/d/1vloLiPvMkatZHHhAaIis3-NaWZ4we9ue/view?usp=sharing
+https://drive.google.com/file/d/1s0r5_0rB6fA7O6n1o41ywCRbBfd_a1cs/view?usp=sharing
 
 ### テーブル定義書
 
